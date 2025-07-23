@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "RAD_Dt",
+    "Projects": [
+      {
+        "Path": "..\\RAD_Dt\\RAD_Dt.vcxproj",
+        "Action": "Start"
+      }
+    ]
+  },
+  {
+    "Name": "RADCLI",
+    "Projects": [
+      {
+        "Path": "RADCLI.vcxproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
